@@ -1,5 +1,5 @@
 # Markdown 语法
-奶龙钟爱粉挑战在奶蛙生日当天，学习 Markdown 语法
+奶龙真爱粉挑战学习 Markdown 语法
 
 真是疯狂的一天
 
